@@ -18,6 +18,6 @@ public class IfNestedExample {
 			else { grade = "B";}
 		}
 		
-		System.out.println("등급 : " + grade);
+		System.out.println("학점 : " + grade);
 	}
 }
