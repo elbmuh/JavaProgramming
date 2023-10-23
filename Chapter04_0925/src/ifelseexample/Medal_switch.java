@@ -10,6 +10,6 @@ public class Medal_switch {
 		else if (rank == 3) { medalColor = "B"; }
 		else { medalColor = "A"; }
 		
-		System.out.println(rank + "µî ¸Ş´ŞÀÇ »ö»óÀº " + medalColor + "ÀÔ´Ï´Ù.");
+		System.out.println(rank + "ë“± ë©”ë‹¬ì˜ ìƒ‰ìƒì€ " + medalColor + "ì…ë‹ˆë‹¤.");
 	}
 }
