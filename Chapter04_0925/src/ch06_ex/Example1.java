@@ -13,7 +13,7 @@ public class Example1 {
 			}
 		}
 		
-		System.out.println("\nÂ¦¼ö ¹ß»ı È½¼ö: " + count);
-		System.out.println("Â¦¼öÀÇ ÇÕ: " + sum);
+		System.out.println("\nì§ìˆ˜ ë°œìƒ íšŸìˆ˜: " + count);
+		System.out.println("ì§ìˆ˜ì˜ í•©: " + sum);
 	}
 }
