@@ -18,6 +18,6 @@ public class SwitchExample1 {
 		default: medalColor = "A";
 		} 
 		
-		System.out.println(rank + "µî ¸Ş´ŞÀÇ »ö»óÀº " + medalColor + "ÀÔ´Ï´Ù.");
+		System.out.println(rank + "ë“± ë©”ë‹¬ì˜ ìƒ‰ìƒì€ " + medalColor + "ì…ë‹ˆë‹¤.");
 	}
 }
