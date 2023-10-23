@@ -9,6 +9,6 @@ public class ForExample1 {
 				System.out.printf(i + "\t"); }
 		}
 		System.out.println();
-		System.out.println("3ÀÇ ¹è¼öÀÇ ÇÕ : " + sum);
+		System.out.println("3ì˜ ë°°ìˆ˜ì˜ í•© : " + sum);
 	}
 }
