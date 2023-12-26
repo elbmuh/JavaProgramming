@@ -4,6 +4,6 @@
 
 보시기에 앞서 참고 부탁 드립니다.
 
--> The sources of the above uploaded coding are from Professor Lee Hyun-hee's handouts in the Java programming class at Chosun University.
+The sources of the above uploaded coding are from Professor Lee Hyun-hee's handouts in the Java programming class at Chosun University.
 
--> Please refer to it before you take a look.
+Please refer to it before you take a look.
